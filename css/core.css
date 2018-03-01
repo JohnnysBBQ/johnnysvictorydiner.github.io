@@ -20,7 +20,8 @@ body {
   background-color: #0e0e0e;
   background-repeat: repeat;
   background-attachment: fixed;
-  opacity: 0.5;
+  opacity: 1;
+  background:rgba(0,0,0,0.5);
 }
 
 /* CUSTOMIZE THE CAROUSEL
