@@ -55,7 +55,7 @@ body {
 .marketing .col-lg-5 {
   margin-bottom: 1.5rem;
   text-align: center;
-  background-image: url("../images/container-background.png");
+  background-color: rgba(0, 0, 0, 0.3);
   border-radius: 25px;
 }
 .marketing h2 {
