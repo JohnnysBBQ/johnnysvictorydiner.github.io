@@ -55,7 +55,8 @@ body {
 .marketing .col-lg-5 {
   margin-bottom: 1.5rem;
   text-align: center;
-  background-color: #3d1a01;
+  background-image: url("../images/container-background.jpg");
+  border-radius: 50px;
 }
 .marketing h2 {
   font-weight: 400;
@@ -104,7 +105,7 @@ body {
 }
 
 @media (min-width: 1200px) {
-    .container{
-        width: 125%;
-    }
+  .container{
+    width: 125%;
+  }
 }
