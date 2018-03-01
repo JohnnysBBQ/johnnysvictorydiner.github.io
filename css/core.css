@@ -52,14 +52,15 @@ body {
 -------------------------------------------------- */
 
 /* Center align the text within the three columns below the carousel */
-.marketing .col-lg-12 {
+.marketing .col-lg-5 {
   margin-bottom: 1.5rem;
   text-align: center;
+  background-color: #3d1a01;
 }
 .marketing h2 {
   font-weight: 400;
 }
-.marketing .col-lg-12 p {
+.marketing .col-lg-5 p {
   margin-right: .75rem;
   margin-left: .75rem;
 }
