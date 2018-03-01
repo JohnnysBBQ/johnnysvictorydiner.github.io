@@ -6,11 +6,16 @@ body {
   padding-top: 3rem;
   padding-bottom: 3rem;
   color: #efefef;
-  background-image: url("../images/background.jpg");
-  background-size: 334px 667px;
-  background-repeat: repeat;
 }
 
+#background {
+  background-image: url("../images/background.jpg");
+  background-size: 650px 425px;
+  background-color: #0e0e0e;
+  background-repeat: repeat;
+  background-attachment: fixed;
+  opacity: 0.8;
+}
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
