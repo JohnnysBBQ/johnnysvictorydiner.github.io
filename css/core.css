@@ -101,3 +101,9 @@ body {
     margin-top: 7rem;
   }
 }
+
+@media (min-width: 1200px) {
+    .container{
+        width: 125%;
+    }
+}
