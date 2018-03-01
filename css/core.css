@@ -81,6 +81,10 @@ body {
   letter-spacing: -.05rem;
 }
 
+.featurette {
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 25px;
+}
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
