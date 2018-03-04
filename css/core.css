@@ -24,8 +24,13 @@ body {
 .container-background {
   background-color: rgba(0, 0, 0, 0.3);
   border-radius: 20px;
-  width: 100%;
+  width: 105%;
   height: 100%;
+}
+
+.row .featurette {
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 20px;
 }
 
 /* CUSTOMIZE THE CAROUSEL
