@@ -24,13 +24,16 @@ body {
 .container-background {
   background-color: rgba(0, 0, 0, 0.3);
   border-radius: 20px;
-  width: 105%;
+  width: 112%;
   height: 100%;
 }
 
 .row {
   margin-left: -50px;
   margin-right: -50px;
+}
+
+.col-md-7 {
   background-color: rgba(0, 0, 0, 0.3);
   border-radius: 20px;
 }
