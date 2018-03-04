@@ -21,6 +21,11 @@ body {
   background-attachment: fixed;
 }
 
+.container-background {
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 25px;
+}
+
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 
@@ -55,8 +60,6 @@ body {
 .marketing .col-lg-5 {
   margin-bottom: 1.5rem;
   text-align: center;
-  background-color: rgba(0, 0, 0, 0.3);
-  border-radius: 25px;
 }
 .marketing h2 {
   font-weight: 400;
@@ -79,11 +82,6 @@ body {
   font-weight: 300;
   line-height: 1;
   letter-spacing: -.05rem;
-}
-
-.featurette {
-  background-color: rgba(0, 0, 0, 0.3);
-  border-radius: 25px;
 }
 
 /* RESPONSIVE CSS
