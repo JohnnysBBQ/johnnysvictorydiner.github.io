@@ -1707,6 +1707,19 @@ a {
   right: -50px; }
 
 .overflow-hidden {
-  overflow: hidden; }
+  overflow: hidden;
+}
+  
+.mapouter{
+	text-align:right;
+	height:100%;
+	width:100%;
+}
+.gmap_canvas{
+	overflow:hidden;
+	background:none!important;
+	height:100%;
+	width:100%;
+}
 
 /*# sourceMappingURL=style.css.map */
