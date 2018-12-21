@@ -1,7 +1,7 @@
 function populateMenuDataFromFile(menuType) {
     jQuery.get('../menu/' + menuType + 'Column1' + '.txt', function(data) {
 		var column1GeneratedHtml = generateHtmlFromFileData(data)
-		console.log(menuType + 'Column1' + " -- column1data: " + "column1data: " + column1GeneratedHtml)
+		console.log(menuType + 'Column1' + " -- column1data: " + column1GeneratedHtml)
         $(menuType + 'Column1').html(column1GeneratedHtml);
     });
 
@@ -23,15 +23,21 @@ function getHtmlTemplate() {
 
 function generateHtmlFromFileData(fileData) {
     var fileLines = fileData.split('\n');
+	
+	console.log("fileLines: " + fileLines);
 
     var generatedHtml = '';
     for (line in fileLines) {
         var lineData = line.split(':');
+		console.log("lineData: " + lineData);
         generatedHtml += getHtmlTemplate()
             .replace('{name}', lineData[0])
             .replace('{price}', lineData[1])
             .replace('{description}', lineData[2]);
     }
+	
+	
+	console.log("lineData: " + generatedHtml);
 
     return generatedHtml;
 }
