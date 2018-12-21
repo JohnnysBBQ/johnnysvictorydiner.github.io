@@ -13,9 +13,11 @@ function populateMenuDataFromFile(menuType) {
 function getHtmlTemplate() {
 	htmlTemplate = '';
     jQuery.get('../menu/js/genericMenuTemplate.html', function(data) {
+		console.log("data" + data)
         htmlTemplate = data.replace('\n', '');
     });
 	
+		console.log("htmlTemplate" + data)
 	return htmlTemplate;
 }
 
@@ -25,7 +27,6 @@ function generateHtmlFromFileData(fileData) {
     var generatedHtml = '';
     for (index in fileLines) {
         var lineData = fileLines[index].split(':');
-		console.log(getHtmlTemplate())
         generatedHtml = generatedHtml.concat(getHtmlTemplate()
             .replace('{name}', lineData[0])
             .replace('{price}', lineData[1])
