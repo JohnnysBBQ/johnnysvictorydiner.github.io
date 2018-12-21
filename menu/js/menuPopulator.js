@@ -12,7 +12,7 @@ function populateMenuDataFromFile(menuType) {
 
 function getHtmlTemplate() {
 	htmlTemplate = '';
-    jQuery.get('../menu/js/genericMenuTemplate.html', function(data) {
+    jQuery.get('../menu/js/genericMenuTemplate.txt', function(data) {
 		console.log("data" + data)
         htmlTemplate = data.replace('\n', '');
     });
