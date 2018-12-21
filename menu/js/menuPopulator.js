@@ -1,13 +1,13 @@
 function populateMenuDataFromFile(menuType) {
     jQuery.get('../menu/' + menuType + 'Column1' + '.txt', function(data) {
 		var column1GeneratedHtml = generateHtmlFromFileData(data)
-		console.log(column1GeneratedHtml)
+		console.log(menuType + 'Column1' + " -- column1data: " + "column1data: " + column1GeneratedHtml)
         $(menuType + 'Column1').html(column1GeneratedHtml);
     });
 
     jQuery.get('../menu/' + menuType + 'Column2' + '.txt', function(data) {
         var column2GeneratedHtml = generateHtmlFromFileData(data)
-		console.log(column2GeneratedHtml)
+		console.log(menuType + 'Column2' + " -- column2data: " + column2GeneratedHtml)
         $(menuType + 'Column2').html(column2GeneratedHtml);
     });
 }
