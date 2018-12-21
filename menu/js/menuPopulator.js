@@ -1,13 +1,13 @@
 function populateMenuDataFromFile(menuType) {
     jQuery.get('../menu/' + menuType + 'Column1' + '.txt', function(data) {
-	    console.log("column1" + menuType + " " + data);
 		var column1GeneratedHtml = generateHtmlFromFileData(data)
+		console.log(column1GeneratedHtml)
         $(menuType + 'Column1').html(column1GeneratedHtml);
     });
 
     jQuery.get('../menu/' + menuType + 'Column2' + '.txt', function(data) {
-		console.log("column2" + menuType + " " + data);
         var column2GeneratedHtml = generateHtmlFromFileData(data)
+		console.log(column2GeneratedHtml)
         $(menuType + 'Column2').html(column2GeneratedHtml);
     });
 }
@@ -15,7 +15,6 @@ function populateMenuDataFromFile(menuType) {
 function getHtmlTemplate() {
 	htmlTemplate = '';
     jQuery.get('../menu/js/genericMenuTemplate.html', function(data) {
-		console.log("template: " + data)
         htmlTemplate = data.replace('\n', '');
     });
 	
@@ -38,7 +37,6 @@ function generateHtmlFromFileData(fileData) {
 }
 
 $(document).ready(function() {
-	console.log("loading all items...");
     populateMenuDataFromFile('breakfast');
     populateMenuDataFromFile('lunch');
     populateMenuDataFromFile('bbq');
