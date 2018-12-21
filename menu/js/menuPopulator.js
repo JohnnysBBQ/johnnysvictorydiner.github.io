@@ -1,6 +1,6 @@
 function populateMenuDataFromFile(menuType) {
     jQuery.get('../menu/' + menuType + 'Column1' + '.txt', function(data) {
-		var column1GeneratedHtml = generateHtmlFromFileData(data)
+        var column1GeneratedHtml = generateHtmlFromFileData(data)
         $(menuType + 'Column1').html(column1GeneratedHtml);
     });
 
@@ -11,22 +11,19 @@ function populateMenuDataFromFile(menuType) {
 }
 
 function getHtmlTemplate() {
-	htmlTemplate = '';
-	$.ajax({
-    url : '../menu/js/genericMenuTemplate.txt',
-    type : "get",
-    async: false,
-    success : function(data) {
-		console.log("data" + data)
-        htmlTemplate = data.replace('\n', '');
-    },
-    error: function() {
-       console.log('Could not load menu data');
-    }
- });
-	
-		console.log("htmlTemplate" + htmlTemplate)
-	return htmlTemplate;
+    htmlTemplate = '';
+    $.ajax({
+        url: '../menu/js/genericMenuTemplate.txt',
+        type: "get",
+        async: false,
+        success: function(data) {
+            htmlTemplate = data.replace('\n', '');
+        },
+        error: function() {
+            console.log('Could not load menu data');
+        }
+    });
+    return htmlTemplate;
 }
 
 function generateHtmlFromFileData(fileData) {
@@ -39,12 +36,10 @@ function generateHtmlFromFileData(fileData) {
             .replace('{name}', lineData[0])
             .replace('{price}', lineData[1])
             .replace('{description}', lineData[2])
-		);
-			console.log("generatedHtml in loop: " + generatedHtml);
+        );
     }
-	
-	
-	console.log("generatedHtml: " + generatedHtml);
+
+    console.log("generatedHtml: " + generatedHtml);
 
     return generatedHtml;
 }
