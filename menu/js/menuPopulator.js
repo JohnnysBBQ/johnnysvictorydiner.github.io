@@ -33,10 +33,11 @@ function generateHtmlFromFileData(fileData) {
 		console.log("lineData[0]: " + lineData[0]);
 		console.log("lineData[1]: " + lineData[1]);
 		console.log("lineData[2]: " + lineData[2]);
-        generatedHtml += getHtmlTemplate()
+        generatedHtml = generatedHtml.concat(getHtmlTemplate()
             .replace('{name}', lineData[0])
             .replace('{price}', lineData[1])
-            .replace('{description}', lineData[2]);
+            .replace('{description}', lineData[2])
+		);
     }
 	
 	
