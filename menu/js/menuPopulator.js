@@ -38,6 +38,7 @@ function generateHtmlFromFileData(fileData) {
             .replace('{price}', lineData[1])
             .replace('{description}', lineData[2])
 		);
+			console.log("generatedHtml in loop: " + generatedHtml);
     }
 	
 	
