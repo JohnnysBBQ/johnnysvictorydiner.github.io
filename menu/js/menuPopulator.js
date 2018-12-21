@@ -29,7 +29,7 @@ function generateHtmlFromFileData(fileData) {
     var generatedHtml = '';
     for (index in fileLines) {
 		console.log("line: " + fileLines[index]);
-        var lineData = lineData[index].split(':');
+        var lineData = fileLines[index].split(':');
 		console.log("lineData[0]: " + lineData[0]);
 		console.log("lineData[1]: " + lineData[1]);
 		console.log("lineData[2]: " + lineData[2]);
