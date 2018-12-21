@@ -28,8 +28,11 @@ function generateHtmlFromFileData(fileData) {
 
     var generatedHtml = '';
     for (line in fileLines) {
+		console.log("line: " + line);
         var lineData = line.split(':');
-		console.log("lineData: " + lineData);
+		console.log("lineData[0]: " + lineData[0]);
+		console.log("lineData[1]: " + lineData[1]);
+		console.log("lineData[2]: " + lineData[2]);
         generatedHtml += getHtmlTemplate()
             .replace('{name}', lineData[0])
             .replace('{price}', lineData[1])
@@ -37,7 +40,7 @@ function generateHtmlFromFileData(fileData) {
     }
 	
 	
-	console.log("lineData: " + generatedHtml);
+	console.log("generatedHtml: " + generatedHtml);
 
     return generatedHtml;
 }
