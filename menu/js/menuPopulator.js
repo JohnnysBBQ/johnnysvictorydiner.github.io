@@ -13,10 +13,13 @@ function populateMenuDataFromFile(menuType) {
 }
 
 function getHtmlTemplate() {
+	htmlTemplate = '';
     jQuery.get('../menu/js/genericMenuTemplate.html', function(data) {
 		console.log("template: " + data)
-        return data.replace('\n', '');
+        htmlTemplate = data.replace('\n', '');
     });
+	
+	return htmlTemplate;
 }
 
 function generateHtmlFromFileData(fileData) {
