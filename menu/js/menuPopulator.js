@@ -12,10 +12,18 @@ function populateMenuDataFromFile(menuType) {
 
 function getHtmlTemplate() {
 	htmlTemplate = '';
-    jQuery.get('../menu/js/genericMenuTemplate.txt', function(data) {
+	$.ajax({
+    url : '../menu/js/genericMenuTemplate.txt',
+    type : "get",
+    async: false,
+    success : function(data) {
 		console.log("data" + data)
         htmlTemplate = data.replace('\n', '');
-    });
+    },
+    error: function() {
+       console.log('Could not load menu data');
+    }
+ });
 	
 		console.log("htmlTemplate" + htmlTemplate)
 	return htmlTemplate;
