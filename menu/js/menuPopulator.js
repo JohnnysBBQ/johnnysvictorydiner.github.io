@@ -17,7 +17,7 @@ function getHtmlTemplate() {
         htmlTemplate = data.replace('\n', '');
     });
 	
-		console.log("htmlTemplate" + data)
+		console.log("htmlTemplate" + htmlTemplate)
 	return htmlTemplate;
 }
 
