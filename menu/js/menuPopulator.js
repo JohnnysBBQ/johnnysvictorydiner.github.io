@@ -6,7 +6,7 @@ function populateMenuDataFromFile(menuType) {
 
     jQuery.get('../menu/' + menuType + 'Column2' + '.txt', function(data) {
         var column2GeneratedHtml = generateHtmlFromFileData(data)
-        $(menuType + 'Column2').html(column2GeneratedHtml);
+        $('#' + menuType + 'Column2').html(column2GeneratedHtml);
     });
 }
 
@@ -38,8 +38,6 @@ function generateHtmlFromFileData(fileData) {
             .replace('{description}', lineData[2])
         );
     }
-
-    console.log("generatedHtml: " + generatedHtml);
 
     return generatedHtml;
 }
