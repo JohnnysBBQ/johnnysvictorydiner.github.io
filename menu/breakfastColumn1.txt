@@ -1,2 +1,3 @@
 Pulled Pork:10:Amazing pulled pork
 Brisket:15:Awesome brisket
+Ribs:35:Suh good ribs
