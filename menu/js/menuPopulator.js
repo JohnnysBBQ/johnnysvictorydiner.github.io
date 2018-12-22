@@ -1,7 +1,7 @@
 function populateMenuDataFromFile(menuType) {
     jQuery.get('../menu/' + menuType + 'Column1' + '.txt', function(data) {
         var column1GeneratedHtml = generateHtmlFromFileData(data)
-        $(menuType + 'Column1').html(column1GeneratedHtml);
+        $('#' + menuType + 'Column1').html(column1GeneratedHtml);
     });
 
     jQuery.get('../menu/' + menuType + 'Column2' + '.txt', function(data) {
