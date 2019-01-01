@@ -4,6 +4,6 @@
             <h3 class="pb_font-18 font-weight-bold">{name}</h3>
             <p class="mb-0">{description}</p>
         </div>
-        <div class="col-lg-2"><span class="price"><sup>$</sup>{price}</span></div>
+        <div class="col-lg-2"><span class="price">{price}</span></div>
     </div>
 </li>
