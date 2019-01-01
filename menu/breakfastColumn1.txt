@@ -1,3 +1,6 @@
 Pulled Pork:10:Amazing pulled pork
 Brisket:15:Awesome brisket
 Ribs:35:Suh good ribs
+<h1>Eggs</h1>::
+Scrambled Eggs:3:
+Over Easy:2:
