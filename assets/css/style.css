@@ -18,6 +18,22 @@
 	font-size: 15px !important;
 }
 
+.top-header {
+	margin-top: 5% !important;
+}
+
+@media (min-width: 800px) and (max-width: 991px) {
+	.top-header {
+		margin-top: 15% !important;
+	}
+}
+
+@media (min-width: 400px) and (max-width: 800px) {
+	.top-header {
+		margin-top: 25% !important;
+	}
+}
+
 .mouse-wrap,
 .scroll-wrap {
 	position: absolute;
@@ -162,7 +178,7 @@
 	color: #495057;
 }
 
-.testimonial_v1.pb_quote_v1 .media-body {
+.testimonial_v1.pb_quote_v1 .mediamedia-body {
 	position: relative;
 	margin-top: 40px;
 }
