@@ -14,25 +14,53 @@
 	font-style: normal;
 }
 
-.description {
-	font-size: 15px !important;
-}
-
 @media only screen and (min-device-height: 991px) {
+	.description {
+	    font-size: 15px !important;
+    }
+
 	.top-header {
 		margin-top: 5% !important;
+	}
+	
+	.header-title {
+		color: rgba(255, 255, 255, 0.8)
 	}
 }
 
 @media only screen and (min-device-height: 800px) and (max-device-height: 991px) {
+	.description {
+	    font-size: 12px !important;
+    }
+
 	.top-header {
 		margin-top: 15% !important;
+		margin-bottom: 15% !important;
+	}
+	
+	.header-title {
+		font-size: 25px !important;
+		color: rgba(255, 255, 255, 0.8)
 	}
 }
 
 @media only screen and (min-device-height: 400px) and (max-device-height: 800px) {
+	.top-header>.heading {
+		font-size: 40px !important;
+	}
+	
+	.description {
+	    font-size: 12px !important;
+    }
+
 	.top-header {
-		margin-top: 25% !important;
+		margin-top: 35% !important;
+		margin-bottom: 25% !important;
+	}
+	
+	.header-title {
+		font-size: 25px !important;
+		color: rgba(255, 255, 255, 0.8);
 	}
 }
 
