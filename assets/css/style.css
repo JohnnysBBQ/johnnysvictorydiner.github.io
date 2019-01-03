@@ -18,17 +18,19 @@
 	font-size: 15px !important;
 }
 
-.top-header {
-	margin-top: 5% !important;
+@media only screen and (min-device-height: 991px) {
+	.top-header {
+		margin-top: 5% !important;
+	}
 }
 
-@media only screen and (min-device-width: 800px) and (max-device-width: 991px) {
+@media only screen and (min-device-height: 800px) and (max-device-height: 991px) {
 	.top-header {
 		margin-top: 15% !important;
 	}
 }
 
-@media only screen and (min-device-width: 400px) and (max-device-width: 800px) {
+@media only screen and (min-device-height: 400px) and (max-device-height: 800px) {
 	.top-header {
 		margin-top: 25% !important;
 	}
