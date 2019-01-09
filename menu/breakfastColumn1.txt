@@ -1,3 +1,2 @@
 <h1>Eggs</h1>::
-Scrambled Eggs:3:
-Over Easy:2:
+#1 Egg Any Style:2.95:with choice of ham, bacon, or sausage 4.35
