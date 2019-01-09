@@ -1,10 +1,10 @@
 <h1>Sides</h1>::
-Smoked Brisket Cowboy Pit Beans:4
-Fresh Rustic Cole Slaw:3
-Momma's Jalepeno Cornbread:2
+Smoked Brisket Cowboy Pit Beans:4:
+Fresh Rustic Cole Slaw:3:
+Momma's Jalepeno Cornbread:2:
 Smashed Cheddar Goldfish Mac n Cheese:4:(add brisket or pulled pork for $2)
 <h1>Kidsies</h1>::
 Hot Dog:3:add cheese +$1
-Grilled Cheese:3
+Grilled Cheese:3:
 <h1>Extra's</h1>::
-Soda or Water:1
+Soda or Water:1:
