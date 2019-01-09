@@ -7,3 +7,4 @@
 #6 Two Eggs, Hash, with choice of ham, bacon, or sausage:6.75:
 #7 Two Eggs, Homemade Hash, with choice of ham, bacon, or sausage:8.75:
 Add an extra egg:1.10:
+<h1>Omelettes</h1>::
