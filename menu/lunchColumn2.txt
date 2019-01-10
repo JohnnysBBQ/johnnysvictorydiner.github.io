@@ -8,7 +8,7 @@ Fresh Garden Salad - small:3.25:Fresh lettuce, tomato, cukes, raw onion, black o
 Fresh Garden Salad - large:5.25:Fresh lettuce, tomato, cukes, raw onion, black olives, and housemade croutons
 Add tuna, chicken salad, egg salad:2.00:
 Add crispy chicken or marinated, grilled chicken:3.00:
-Choice of italian, ranch, honey mustard, or french dressing:
+Choice of italian, ranch, honey mustard, or french dressing: :
 <h1>Clubs Clubs and more Clubs (served with french fries)</h1>::
 Turkey Club:7.25:
 Cheeseburger Club:7.25:
