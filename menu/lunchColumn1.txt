@@ -18,4 +18,4 @@ Ham & Cheese:4.50:
 Tuna Melt:4.75:
 Crispy Chicken Cutlet:4.99:
 All sandwiches served on choice of white, wheat, italian bread, or bulky roll: :
-Add fries or onion rings:1.75
+Add fries or onion rings:1.75:
