@@ -9,7 +9,8 @@
 Add an extra egg:1.10:
 <h1>Omelettes (served with choice of white or wheat toast)</h1>::
 Two Egg Omelette served with any two fillings:6.49:
-Three Egg Omelette served with any two fillings:7.49:                                                                                 Fillings - cheese, peppers, onions, mushrooms, broccoli, tomatoes, spinach, olives (each additional add .50)                             Meat Fillings - kielbasa, bacon, ham, sausage (each additional add .75):
+Three Egg Omelette served with any two fillings:7.49:
+Fillings - cheese, peppers, onions, mushrooms, broccoli, tomatoes, spinach, olives (each additional add .50)                             Meat Fillings - kielbasa, bacon, ham, sausage (each additional add .75):
 Egg Whites:add 1.00:
 Raisin, Italian, Pumpernickel:add .50:
 English Muffin or Thick Light Rye:add .75:
