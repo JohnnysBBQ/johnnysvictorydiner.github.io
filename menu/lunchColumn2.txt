@@ -1,14 +1,14 @@
 <h1>Coney Island Style Hot Weineys</h1>::
-1 "all the way" :1.30:
-3 "all the way" :3.50:
+Hot Weineys :1.30/ea:
+Three "all the way" :3.50:
 <h1>Soups & Salads</h1>::
-Cup o' Soup:2.75
+Cup o' Soup:2.75:
 Bowl o' Soup:3.95:
 Fresh Garden Salad - small:3.25:Fresh lettuce, tomato, cukes, raw onion, black olives, and housemade croutons
 Fresh Garden Salad - large:5.25:Fresh lettuce, tomato, cukes, raw onion, black olives, and housemade croutons
 Add tuna, chicken salad, egg salad:2.00:
 Add crispy chicken or marinated, grilled chicken:3.00:
-Choice of italian, ranch, honey mustard, or french dressing
+Choice of italian, ranch, honey mustard, or french dressing:
 <h1>Clubs Clubs and more Clubs (served with french fries)</h1>::
 Turkey Club:7.25:
 Cheeseburger Club:7.25:
@@ -16,3 +16,13 @@ Chicken Salad Club:7.25:
 Tuna Club:6.75:
 BLT Club:6.25:
 Ham & Cheese Club:6.75:
+<h1>Our Sides</h1>::
+Small French Fries:2.35:
+Large French Fries:2.99:
+Small Curly Fries:2.35:
+Large Curly Fries:3.50:
+Small Onion Rings:3.25:
+Large Onion Rings:3.99:
+Pasta Salad:1.50:
+Mashed Potatoes:1.50:
+Veg of the Day:1.50:
