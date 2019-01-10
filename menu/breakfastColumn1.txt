@@ -28,3 +28,5 @@ Western Sammie:4.99:
 Irish Eggs Benny:7.95:Two poached eggs with homemade hash smothered in hollandaise, served on a grilled english muffin
 Florentine Eggs Benny:7.95:Two poached eggs with spinach smothered in hollandaise, served on a grilled english muffin
 Pulled Pork Eggs Benny:8.95:Two poached eggs and slow smoked pulled pork smothered in hollandaise, served on a grilled english muffin
+Cori Special with Tomato:5.95:Two poached eggs with tomato smothered in hollandaise, served on a grilled english muffin
+Cori Special with Sausage:6.75:Two poached eggs with sausage patties smothered in hollandaise, served on a grilled english muffin
