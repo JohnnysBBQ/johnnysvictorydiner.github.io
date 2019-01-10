@@ -1,2 +1,21 @@
-Pulled Pork:10:Amazing pulled pork
-Brisket:15:Awesome brisket
+<h1>Johnny Burgers</h1>::
+Fresh, never frozen 5 oz ground patty served with lettuce and tomato on a brioche bun: :
+"Johnny Burger":8.25:Two fresh ground patties served bacon, mushrooms,lettuce, tomatoes, grilled onions & pickles and your choice of cheese
+Single Burger:4.75:add bacon for 1.00
+Double Burger:6.25:add bacon for 2.00
+Triple Burger:7.75:add bacon for 2.50
+Add fries or onion rings:1.75:
+Toppings:.75:Onions, Mushrooms,Jalapenos,Cheese
+<h1>Our Sandwiches (served with chips and a pickle)</h1>::
+"Johnny's Signature Sammie":9.75:Marinated grilled chicken, topped with cheese, bacon, mushrooms, fried onion strings, lettuce and tomato, and drizzled in our sriracha mayo, served on a grilled brioche bun
+"Steak Bomb":7.50:Fresh shaved steak sauteed with mushrooms, peppers, onions, and american cheese served on a grilled torpedo 
+"Turkey Bomb":5.50:Fresh sliced turkey sauteed with onions, lettuce and tomato, served on a grilled torpedo
+Meatloaf Sammie:5.50:Housemade meatloaf and cheese with brown gravy served on toasted wheat or white bread
+Chicken Salad:5.50:
+Tuna Salad:4.25:
+Egg Salad:3.95:
+Ham & Cheese:4.50:
+Tuna Melt:4.75:
+Crispy Chicken Cutlet:4.99:
+All sandwiches served on choice of white, wheat, italian bread, or bulky roll: :
+Add fries or onion rings:1.75
