@@ -18,9 +18,9 @@ Raisin, Italian, Pumpernickel:add .50:
 English Muffin or Thick Light Rye:add .75:
 <h1>Breakfast Sammies</h1>::
 One egg & cheese on an english muffin:2.75:
-    with choice of ham, bacon, or sausage:3.50:
+        with choice of ham, bacon, or sausage:3.50:
 Two egg & cheese on an english muffin:3.25:
-    with choice of ham, bacon, or sausage:4.00:
+        with choice of ham, bacon, or sausage:4.00:
 Breakfast Burrito or Quesadilla:5.75:
 Western Sammie:4.99:
 <h1>Eggs Benny (served with homefries)</h1>::
