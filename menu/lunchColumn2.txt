@@ -1,2 +1,18 @@
-Pulled Pork:10:Amazing pulled pork
-Brisket:15:Awesome brisket
+<h1>Coney Island Style Hot Weineys</h1>::
+1 "all the way" :1.30:
+3 "all the way" :3.50:
+<h1>Soups & Salads</h1>::
+Cup o' Soup:2.75
+Bowl o' Soup:3.95:
+Fresh Garden Salad - small:3.25:Fresh lettuce, tomato, cukes, raw onion, black olives, and housemade croutons
+Fresh Garden Salad - large:5.25:Fresh lettuce, tomato, cukes, raw onion, black olives, and housemade croutons
+Add tuna, chicken salad, egg salad:2.00:
+Add crispy chicken or marinated, grilled chicken:3.00:
+Choice of italian, ranch, honey mustard, or french dressing
+<h1>Clubs Clubs and more Clubs (served with french fries)</h1>::
+Turkey Club:7.25:
+Cheeseburger Club:7.25:
+Chicken Salad Club:7.25:
+Tuna Club:6.75:
+BLT Club:6.25:
+Ham & Cheese Club:6.75:
