@@ -16,7 +16,7 @@ Meat Fillings - kielbasa, bacon, ham, sausage:.75/ea:
 Egg Whites:add 1.00:
 Raisin, Italian, Pumpernickel:add .50:
 English Muffin or Thick Light Rye:add .75:
-<h1>Eggs Benny's</h1>::
-Irish Eggs Benny:7.95;
-Florentine Eggs Benny:7.95:
-Pulled Pork Eggs Benny:8.95:
+<h1>Eggs Benny</h1>::
+Irish Eggs Benny:7.95:Two poached eggs and homemade hash served on a grilled english muffin
+Florentine Eggs Benny:7.95:Two poached eggs with spinach served on a grilled english muffin
+Pulled Pork Eggs Benny:8.95:Two poached eggs and slow smoked pulled pork served on a grilled english muffin
