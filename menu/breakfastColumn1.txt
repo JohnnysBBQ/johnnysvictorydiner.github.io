@@ -22,6 +22,7 @@ One egg & cheese on an english muffin:2.75:
 Two egg & cheese on an english muffin:3.25:
         with choice of ham, bacon, or sausage:4.00:
 Breakfast Burrito or Quesadilla:5.75:
+Junkyard Dog Burrito:9.00:Two scrambled eggs, peppers, onions, mushrooms, cheese, and homefries all wrapped in flour tortilla and "crunchified" on the flat top:
 Western Sammie:4.99:
 <h1>Eggs Benny (served with homefries)</h1>::
 Irish Eggs Benny:7.95:Two poached eggs with homemade hash smothered in hollandaise, served on a grilled english muffin
