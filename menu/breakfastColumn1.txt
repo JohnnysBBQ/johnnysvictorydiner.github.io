@@ -5,7 +5,8 @@
 #4    with choice of ham, bacon, and sausage:5.25:
 #5 Ribeye Steak 'n Eggs, homefries & toast:10.25:
 #6 Two Eggs, hash, homefries & toast, with choice of ham, bacon, or sausage:6.75:
-#7 Two Eggs, homemade hash, homefries & toast with choice of ham, bacon, or sausage:8.75:
+Two Eggs, homemade hash, homefries & toast with choice of ham, bacon, or sausage:8.75:
+#7 "The Bronco" Three Eggs, two strips of bacon, two sausage, two pancakes, pit beans, homefries & toast:8.75:
 Add an extra egg:1.10:
 <h1>Omelettes (served with choice of white or wheat toast)</h1>::
 Two Egg Omelette served with any two fillings:6.49:
@@ -15,3 +16,7 @@ Meat Fillings - kielbasa, bacon, ham, sausage:.75/ea:
 Egg Whites:add 1.00:
 Raisin, Italian, Pumpernickel:add .50:
 English Muffin or Thick Light Rye:add .75:
+<h1>Eggs Benny's</h1>::
+Irish Eggs Benny:7.95;
+Florentine Eggs Benny:7.95:
+Pulled Pork Eggs Benny:8.95:
