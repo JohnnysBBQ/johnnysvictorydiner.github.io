@@ -1,2 +1,27 @@
-Pulled Pork:10:Amazing pulled pork
-Brisket:15:Awesome brisket
+<h1>Housemade Pancakes</h1>::
+One Pancake:2.50:
+Two Pancakes:3.99:
+Three Pancakes:4.99: 
+Toppings:.75/ea:Blueberries, Strawberries, Apples, Pears, M&M's, or Chocolate Chips:
+<h1>French Toast</h1>::
+Two Texas Style:3.90:Served with butter and powdered sugar
+Stuffed French Toast:6.25:Filled with our homemade cream cheese glaze and your choice of bluberries, strawberries, or peaches:
+<h1>Belgian Waffle</h1>::
+Homemade Belgian Waffle served with butter and whipped cream:4.95:
+Toppings:1.50/ea:Blueberries, Strawberries, or Peaches
+<h1>Muffins</h1>::
+Corn, Bran, Blueberry, Banana Nut:1.95:
+<h1>Bagels</h1>::
+Plain, Onion, Cinnamon Raisin:1.75:
+<h1>Oatmeal</h1>::
+Hot Oatmeal & Toast:2.99
+      with Fruit:3.99:
+<h1>Our Sides</h1>::
+Home Fries or Hash Browns:1.50:
+Hash, Ham, Bacon, or Sausage:3.50:
+Homemade Hash:4.75:
+Cowboy Pit Beans:2.50:
+Fruit Cup:2.75:
+White or Wheat Toast:1.25:
+Italian, Raisin, or English Muffin:1.50
+Thich Light Rye:2.00:
