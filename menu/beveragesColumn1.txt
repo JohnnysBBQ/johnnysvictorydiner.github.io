@@ -1,2 +1,6 @@
 <h1>Diner Drinks</h1>::
-Bottomless Cup of Coffee 1.95:
+Bottomless Cup of Coffee:1.95:
+Coffee (to go): Small:1.75
+Tea:1.50:
+Fountain Soda:Small:1.50:
+Fountain Soda:Large:1.99:
