@@ -1,10 +1,10 @@
+<h1>Sammies</h1>::
+12 Hr Brisket Grilled Cheese:12:on sourdough with American/Cheddar mix
+Brisket or Burnt Ends:13:served on a toasted brioche bun with hot or mild BBQ sauce
+Slow Smoked Pulled Pork Sliders:10:with Cheddar, Cole Slaw, and house-made Honey Sriracha Glaze
+Smoked Sausage:10:with stone ground mustard, Cheddar, and served on a toasted brioche bun
 <h1>Sides</h1>::
 Smoked Brisket Cowboy Pit Beans:4:
 Fresh Rustic Cole Slaw:3:
 Momma's Jalepeno Cornbread:2:
 Smashed Cheddar Goldfish Mac n Cheese:4:(add brisket or pulled pork for $2)
-<h1>Kidsies</h1>::
-Hot Dog:3:add cheese +$1
-Grilled Cheese:3:
-<h1>Extra's</h1>::
-Soda or Water:1:
