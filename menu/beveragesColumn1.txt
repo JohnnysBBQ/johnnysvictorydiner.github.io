@@ -1,8 +1,8 @@
 <h1>Diner Drinks</h1>::
 Bottomless Cup of Coffee:1.95:
-Coffee - small (to go):1.75
-Coffee - medium (to go):1.90
-Coffee - large (to go):2.05
+Coffee - small (to go):1.75:
+Coffee - medium (to go):1.90:
+Coffee - large (to go):2.05:
 Iced Coffee:1.95:
 Iced Tea:1.95:
 Tea:1.50:

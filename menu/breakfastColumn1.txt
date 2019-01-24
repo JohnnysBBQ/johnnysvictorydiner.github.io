@@ -1,8 +1,8 @@
 <h1>Eggs (served with choice of white or wheat toast)</h1>::
 #1 One Egg, homefries & toast:2.95:
-#2    with choice of ham, bacon, or sausage:4.35:
+#2 &nbsp;&nbsp;&nbsp;with choice of ham, bacon, or sausage:4.35:
 #3 Two Eggs, homefries & toast:3.75:
-#4    with choice of ham, bacon, and sausage:5.25:
+#4 &nbsp;&nbsp;&nbsp;with choice of ham, bacon, and sausage:5.25:
 #5 Ribeye Steak 'n Eggs, homefries & toast:10.25:
 #6 Two Eggs, hash, homefries & toast, with choice of ham, bacon, or sausage:6.75:
 Two Eggs, homemade hash, homefries & toast with choice of ham, bacon, or sausage:8.75:
@@ -18,9 +18,9 @@ Raisin, Italian, Pumpernickel:add .50:
 English Muffin or Thick Light Rye:add .75:
 <h1>Breakfast Sammies</h1>::
 One egg & cheese on an english muffin:2.75:
-        with choice of ham, bacon, or sausage:3.50:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with choice of ham, bacon, or sausage:3.50:
 Two egg & cheese on an english muffin:3.25:
-        with choice of ham, bacon, or sausage:4.00:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with choice of ham, bacon, or sausage:4.00:
 Breakfast Burrito or Quesadilla:5.75:
 Junkyard Dog Burrito:9.00:Two scrambled eggs, peppers, onions, mushrooms, cheese, and homefries all wrapped in flour tortilla and "crunchified" on the flat top:
 Western Sammie:4.99:

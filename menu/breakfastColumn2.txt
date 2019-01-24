@@ -23,7 +23,7 @@ Cinnamon Bun:3.00:
 Plain, Onion, or Cinnamon Raisin:1.75:
 <h1>Oatmeal</h1>::
 Hot Oatmeal & Toast:2.99:
-      with Fruit:3.99:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with Fruit:3.99:
 <h1>Our Sides</h1>::
 Home Fries or Hash Browns:1.50:
 Hash, Ham, Bacon, or Sausage:3.50:
