@@ -11,5 +11,5 @@ Milk - small:1.75:Plain, Coffee, or Chocolate
 Milk - large:2.25:Plain, Coffee, or Chocolate
 Juice - small:1.75:Orange, Apple, Cranberry, or Tomato
 Juice - large:2.25:Orange, Apple, Cranberry, or Tomato
-Small Fountain Soda:1.50:
-Large Fountain Soda:1.99:
+Fountain Soda - small:1.50:
+Fountain Soda - large:1.99:
