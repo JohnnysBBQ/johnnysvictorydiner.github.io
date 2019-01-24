@@ -1,9 +1,9 @@
 <h1>Johnny Burgers</h1>::
 Fresh, never frozen 5 oz ground patty served with lettuce and tomato on a brioche bun: :
-"Johnny Burger":8.25:Two fresh ground patties served bacon, mushrooms,lettuce, tomatoes, grilled onions & pickles and your choice of cheese
-Single Burger:4.75:add bacon for 1.00
-Double Burger:6.25:add bacon for 2.00
-Triple Burger:7.75:add bacon for 2.50
+"Johnny Burger":8.45:Two fresh ground patties served bacon, mushrooms,lettuce, tomatoes, grilled onions & pickles and your choice of cheese
+Single Burger:4.95:add bacon for 1.00
+Double Burger:6.45:add bacon for 1.50
+Triple Burger:8.25:add bacon for 2.00
 Add fries or onion rings:1.75:
 Toppings:.75:Onions, Mushrooms,Jalapenos,Cheese
 <h1>Our Sandwiches (served with chips and a pickle)</h1>::
