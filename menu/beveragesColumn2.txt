@@ -1,1 +1,14 @@
-
+<h1>Our Beers</h1>::
+Bud:3.00:
+Bud Lite:3.00:
+Miller Lite:3.00:
+Michelob Ultra:3.00:
+Shock Top:4.00:
+Goose Island IPA:4.00:
+<h1>Our Wines</h1>::
+Mimosa:5.00:
+Pinot Grigio:4.00:
+Cabernet Savignon:4.00:
+Sangria:4.00:
+Merlot:4.00:
+Chardonnay:4.00:
