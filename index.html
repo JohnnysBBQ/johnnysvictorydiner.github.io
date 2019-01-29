@@ -19,6 +19,7 @@
       <link rel="stylesheet" href="assets/css/restaurant.css">
    </head>
    <body data-spy="scroll" data-target="#pb-navbar" data-offset="200">
+      <div id="fb-root"></div>
       <div class="probootstrap-loader"></div>
       <!-- END loader -->
       <nav class="navbar navbar-expand-lg navbar-dark pb_navbar pb_scrolled-light" id="pb-navbar">
@@ -67,15 +68,14 @@
                         From Memorial Day to Labor Day, we serve real southern BBQ on Friday nights until 8 pm. Our Pitmaster learned from the great Myron Mixon (look him up, he’s pretty famous!) and will prepare everything from baby back ribs to 12-hour brisket, pulled pork to smoked chicken wings - all flavored with the sweet taste of apple and oak wood, low ‘n slow like it should be. We have all your favorite southern sides too – cornbread, pit beans, mac ‘n cheese, and cole slaw.
                         Come on in, get to know our friendly staff and become part of the family.
                      </p>
-                     <br />
                      <h3 class="header-title">Contact Us</h3>
                      <p class="description">
-                     <p>Email: <a href="mailto:johnnysbbqri@gmail.com">johnnysbbqri@gmail.com</a></p>
+                     <p>Email: <a class="emailLink" href="mailto:johnnysbbqri@gmail.com">johnnysbbqri@gmail.com</a></p>
                      <p>Phone: (401)-765-2661</p>
                      </p>
+                     <p><a href="#section-menu" role="button" class="btn smoothscroll pb_outline-light rounded-0 btn-xl pb_font-13 pb_letter-spacing-2 p-3">View our menu</a></p>
                      </p>
                   </div>
-                  <p><a href="#section-menu" role="button" class="btn smoothscroll pb_outline-light rounded-0 btn-xl pb_font-13 pb_letter-spacing-2 p-3">View our menu</a></p>
                </div>
             </div>
          </div>
@@ -302,27 +302,30 @@
             <div class="row">
                <div class="card-deck">
                   <div class="card border-0">
-                     <img class="card-img-top" src="assets/images/restaurant/1900x1200/img_1.jpg" alt="Image caption here">
+                     <!--<img class="card-img-top" src="assets/images/restaurant/1900x1200/img_1.jpg" alt="Own the night shoot">-->
+					 <div class="card-img-top">
+					 <div class="fb-video" data-href="https://www.facebook.com/Inforce01/videos/481648762324179/" data-allowfullscreen="true" data-width="500"></div>
+					 </div>
                      <div class="card-body pb_p-40">
-                        <small class="text-uppercase pb_color-dark-opacity-3 font-weight-bold">December 2nd, 2017</small>
-                        <h4 class="card-title"><a href="#" class="text-danger">Thanksgiving and Reflections</a></h4>
-                        <p class="card-text">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. .</p>
+                        <small class="text-uppercase pb_color-dark-opacity-3 font-weight-bold">May 11th, 2019</small>
+                        <h4 class="card-title"><a href="#" class="text-danger">Own The Night Shoot</a></h4>
+                        <p class="card-text">For the 2nd year, Johnny’s has been invited to be the only food vendor at the INFORCE - Own The Night Shoot taking place at Wallum Lake Rod and Gun Club located in Harrisville, Rhode Island The event will be held on May 11th rain or shine…event hours are from 11:00 AM to 10:00 PM …</p>
                      </div>
                   </div>
                   <div class="card border-0">
                      <img class="card-img-top" src="assets/images/restaurant/1900x1200/img_1.jpg" alt="Image caption here">
                      <div class="card-body pb_p-40">
-                        <small class="text-uppercase pb_color-dark-opacity-3 font-weight-bold">December 10th, 2017</small>
-                        <h4 class="card-title"><a href="#" class="text-danger">Maker of Monday</a></h4>
-                        <p class="card-text">Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+                        <small class="text-uppercase pb_color-dark-opacity-3 font-weight-bold">TBD</small>
+                        <h4 class="card-title"><a href="#" class="text-danger">Coming soon...</a></h4>
+                        <p class="card-text"></p>
                      </div>
                   </div>
                   <div class="card border-0">
                      <img class="card-img-top" src="assets/images/restaurant/1900x1200/img_1.jpg" alt="Image caption here">
                      <div class="card-body pb_p-40">
-                        <small class="text-uppercase pb_color-dark-opacity-3 font-weight-bold">December 23rd, 2017</small>
-                        <h4 class="card-title"><a href="#" class="text-danger">Family and Kids Promo</a></h4>
-                        <p class="card-text">It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+                        <small class="text-uppercase pb_color-dark-opacity-3 font-weight-bold">TBD</small>
+                        <h4 class="card-title"><a href="#" class="text-danger">Coming soon.</a></h4>
+                        <p class="card-text"></p>
                      </div>
                   </div>
                </div>
@@ -436,5 +439,13 @@
       <script src="assets/js/main.js"></script>
       <script src="menu/js/menuPopulator.js"></script>
       <script async src="https://www.jscache.com/wejs?wtype=cdswritereviewlg&amp;uniq=801&amp;locationId=386572&amp;lang=en_US&amp;lang=en_US&amp;display_version=2" data-loadtrk onload="this.loadtrk=true"></script>
+	  <script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.5";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	  </script>
    </body>
 </html>

@@ -54,7 +54,7 @@
 
 @media only screen and (min-device-height: 400px) and (max-device-height: 800px) {
 	.top-header>.heading {
-		font-size: 35px !important;
+		font-size: 30px !important;
 	}
 	
 	.description {
@@ -67,9 +67,13 @@
 	}
 	
 	.header-title {
-		font-size: 25px !important;
+		font-size: 20px !important;
 		color: rgba(255, 255, 255, 0.8);
 	}
+}
+
+.emailLink {
+	color: rgba(255, 255, 255, 0.8);
 }
 
 .mouse-wrap,
