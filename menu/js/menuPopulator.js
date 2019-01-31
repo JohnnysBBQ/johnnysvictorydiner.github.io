@@ -32,9 +32,9 @@ function generateHtmlFromFileData(fileData, htmlTemplate) {
 
     var generatedHtml = '';
     for (index in fileLines) {
-		if(fileLines[index].trim() === "") {
-			continue;
-		}
+        if(fileLines[index].trim() === "") {
+            continue;
+        }
 		
         var lineData = fileLines[index].split(':');
         generatedHtml = generatedHtml.concat(htmlTemplate.replace('{name}', lineData[0])
