@@ -11,7 +11,7 @@ class EventProperties {
 
 function populateEventDataFromFile(eventId) {
 	var eventProperties = getEventProperties(eventId);
-	var templateUrl = eventProperties.imageLink === null ? "../catering/js/cateringVideoTemplate.txt" : "../catering/js/cateringImageTemplate.txt";
+	var templateUrl = eventProperties.imageLink ? "../catering/js/cateringImageTemplate.txt" : "../catering/js/cateringVideoTemplate.txt";
     var htmlTemplate = getHtmlTemplate(templateUrl);
     var generatedHtml = generateHtmlFromEventProperties(eventProperties, htmlTemplate);
     
@@ -60,10 +60,10 @@ function getHtmlTemplate(templateUrl) {
 function generateHtmlFromEventProperties(eventProperties, htmlTemplate) {
 	return htmlTemplate.replace('{imageLink}', eventProperties.imageLink)
 		.replace('{videoLink}', eventProperties.videoLink)
-		.replace('{eventLink}', eventProperties.eventLink === null ? '' : eventProperties.eventLink)
-		.replace('{date}', eventProperties.date === null ? '' : eventProperties.date)
-		.replace('{title}', eventProperties.title === null ? '' : eventProperties.title)
-		.replace('{description}', eventProperties.description === null ? '' : eventProperties.description);
+		.replace('{eventLink}', eventProperties.eventLink ? '' : eventProperties.eventLink)
+		.replace('{date}', eventProperties.date ? '' : eventProperties.date)
+		.replace('{title}', eventProperties.title ? '' : eventProperties.title)
+		.replace('{description}', eventProperties.description ? '' : eventProperties.description);
 }
 
 $(document).ready(function() {
