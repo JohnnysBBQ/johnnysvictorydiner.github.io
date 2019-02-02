@@ -1,13 +1,13 @@
-imageLink=
-videoLink=https://www.facebook.com/video/embed?video_id=481648762324179
-eventLink=https://www.facebook.com/events/600095010346377/
-date=May 11th, 2019
-title=Own The Night Shoot
-description=For the 2nd year, Johnny’s has been invited to be the only food vendor at the INFORCE - Own The Night Shoot taking place at Wallum Lake Rod and Gun Club located in Harrisville, Rhode Island The event will be held on May 11th rain or shine…event hours are from 11:00 AM to 10:00 PM …
+imageLink~
+videoLink~https://www.facebook.com/video/embed?video_id=481648762324179
+eventLink~https://www.facebook.com/events/600095010346377/
+date~May 11th, 2019
+title~Own The Night Shoot
+description~For the 2nd year, Johnny’s has been invited to be the only food vendor at the INFORCE - Own The Night Shoot taking place at Wallum Lake Rod and Gun Club located in Harrisville, Rhode Island The event will be held on May 11th rain or shine…event hours are from 11:00 AM to 10:00 PM …
 
 
 #This is an example of a catering event
-#If the catering event you are trying to make has a picture instead of a video, copy the picture link from facebook by right clicking on it, and paste it after the imageLink= property
+#If the catering event you are trying to make has a picture instead of a video, copy the picture link from facebook by right clicking on it, and paste it after the imageLink~ property
 #Leave the videoLink blank in this case
 #Otherwise, if you want to have a video at the top of the event, right click the facebook video, click "show video url", copy the numbers after /videos/ (looks like this https://www.facebook.com/Inforce01/videos/481648762324179/), and paste that where the numbers are in the example above (after video_id=)
 #Set all other fields as shown above (date, title, description)

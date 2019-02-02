@@ -1,6 +1,6 @@
-imageLink=https://johnnysvictorydiner.com/assets/images/restaurant/1900x1200/img_1.jpg
-videoLink=
-eventLink=
-date=TBD
-title=Coming soon...
-description=
+imageLink~https://johnnysvictorydiner.com/assets/images/restaurant/1900x1200/img_1.jpg
+videoLink~
+eventLink~
+date~TBD
+title~Coming soon...
+description~
