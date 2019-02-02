@@ -1,6 +1,6 @@
 <img class="card-img-top" src="{imageLink}" alt="Catering event">
 <div class="card-body pb_p-40">
-   <small class="text-uppercase pb_color-dark-opacity-3 font-weight-bold">{title}</small>
-   <h4 class="card-title"><a href="#" class="text-danger">{date}</a></h4>
+   <small class="text-uppercase pb_color-dark-opacity-3 font-weight-bold">{date}</small>
+   <h4 class="card-title"><a href="{eventLink}" class="text-danger">{title}</a></h4>
    <p class="card-text">{description}</p>
 </div>
