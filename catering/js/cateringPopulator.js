@@ -20,7 +20,7 @@ function populateEventDataFromFile(eventId) {
 	console.log('---' + htmlTemplate);
 	console.log('----' + generatedHtml);
 	
-	$('#' + eventId).html(generatedHtml);
+	//$('#' + eventId).html(generatedHtml);
 }
 
 function getEventProperties(eventId) {
