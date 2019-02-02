@@ -32,7 +32,7 @@ function getEventProperties(eventId) {
     });
 	
 	fileLines = fileData.split('\n');
-	console.log(fileLines)
+	console.log(fileData)
 	return new EventProperties(fileLines[0].split('=')[1], fileLines[1].split('=')[1], fileLines[2].split('=')[1], fileLines[3].split('=')[1], fileLines[4].split('=')[1]);
 }
 
