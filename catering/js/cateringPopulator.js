@@ -20,7 +20,7 @@ function populateEventDataFromFile(eventId) {
 function getEventProperties(eventId) {
     fileData = '';
     $.ajax({
-        url: '../catering/' + eventId,
+        url: '../catering/' + eventId + '.txt',
         type: "get",
         async: false,
         success: function(data) {
