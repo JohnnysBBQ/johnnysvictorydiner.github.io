@@ -1,7 +1,7 @@
 <div class="card-img-top">
    <div class="embed-responsive embed-responsive-16by9">
-   <iframe class="embed-responsive-item" src="{videoLink}" allowFullScreen></iframe>
-</div>
+      <iframe class="embed-responsive-item" src="{videoLink}" allowFullScreen></iframe>
+   </div>
 </div>
 <div class="card-body pb_p-40">
    <small class="text-uppercase pb_color-dark-opacity-3 font-weight-bold">{date}</small>
