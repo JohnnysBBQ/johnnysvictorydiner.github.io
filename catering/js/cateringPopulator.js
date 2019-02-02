@@ -60,10 +60,10 @@ function getHtmlTemplate(templateUrl) {
 function generateHtmlFromEventProperties(eventProperties, htmlTemplate) {
 	return htmlTemplate.replace('{imageLink}', eventProperties.imageLink)
 		.replace('{videoLink}', eventProperties.videoLink)
-		.replace('{eventLink}', eventProperties.eventLink ? '' : eventProperties.eventLink)
-		.replace('{date}', eventProperties.date ? '' : eventProperties.date)
-		.replace('{title}', eventProperties.title ? '' : eventProperties.title)
-		.replace('{description}', eventProperties.description ? '' : eventProperties.description);
+		.replace('{eventLink}', eventProperties.eventLink ? eventProperties.eventLink : '')
+		.replace('{date}', eventProperties.date ? eventProperties.date : '')
+		.replace('{title}', eventProperties.title ? eventProperties.title : '')
+		.replace('{description}', eventProperties.description ?  eventProperties.description : '');
 }
 
 $(document).ready(function() {
