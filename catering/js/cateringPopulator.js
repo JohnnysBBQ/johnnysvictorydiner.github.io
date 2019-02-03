@@ -56,11 +56,6 @@ function populateEventDataFromFile(eventId) {
     var templateUrl = eventProperties.imageLink ? "../catering/js/cateringImageTemplate.txt" : "../catering/js/cateringVideoTemplate.txt";
     var htmlTemplate = getEventHtmlTemplate(templateUrl);
     var generatedHtml = generateHtmlFromEventProperties(eventProperties, htmlTemplate);
-
-	console.log('-' + eventId);
-	console.log('--' + templateUrl);
-	console.log('---' + htmlTemplate);
-	console.log('----' + generatedHtml);
 	
     $('#' + eventId).html(generatedHtml);
 }
