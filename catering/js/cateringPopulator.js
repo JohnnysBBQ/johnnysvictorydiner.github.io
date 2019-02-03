@@ -19,8 +19,6 @@ function populateEventDataFromFile(eventId) {
 	console.log('--' + templateUrl);
 	console.log('---' + htmlTemplate);
 	console.log('----' + generatedHtml);
-	
-	//$('#' + eventId).html(generatedHtml);
 }
 
 function getEventProperties(eventId) {
@@ -70,4 +68,6 @@ $(document).ready(function() {
     populateEventDataFromFile('event1');
     populateEventDataFromFile('event2');
     populateEventDataFromFile('event3');
+	
+	console.log('finished loading events');
 });
