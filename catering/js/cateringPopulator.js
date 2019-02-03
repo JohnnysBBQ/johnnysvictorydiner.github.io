@@ -11,13 +11,7 @@ class EventProperties {
 
 function populateEventDataFromFile(eventId) {
 	var eventProperties = getEventProperties(eventId);
-	var templateUrl = eventProperties.imageLink ? "../catering/js/cateringImageTemplate.txt" : "../catering/js/cateringVideoTemplate.txt";
-    var htmlTemplate = getHtmlTemplate(templateUrl);
-    
-	console.log('-' + eventProperties);
-	console.log('--' + templateUrl);
-	console.log('---' + htmlTemplate);
-	console.log('----' + generatedHtml);
+
 }
 
 function getEventProperties(eventId) {
@@ -67,6 +61,4 @@ $(document).ready(function() {
     populateEventDataFromFile('event1');
     populateEventDataFromFile('event2');
     populateEventDataFromFile('event3');
-	
-	console.log('finished loading events');
 });
