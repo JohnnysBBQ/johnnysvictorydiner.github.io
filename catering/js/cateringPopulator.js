@@ -7,6 +7,24 @@ function EventProperties(imageLink, videoLink, eventLink, date, title, descripti
 	this.description = description;
 }
 
+function getEventProperties(eventId) {
+    fileData = '';
+    $.ajax({
+        url: '../catering/' + eventId + '.txt',
+        type: "get",
+        async: false,
+        success: function(data) {
+            fileData = data;
+        },
+        error: function() {
+            console.log('Could not load event property data');
+        }
+    });
+	
+    fileLines = fileData.split('\n');
+    return new EventProperties(fileLines[0].split('~')[1], fileLines[1].split('~')[1], fileLines[2].split('~')[1], fileLines[3].split('~')[1], fileLines[4].split('~')[1], fileLines[5].split('~')[1]);
+}
+
 function populateEventDataFromFile(eventId) {
 	console.log('called function populate');
 }
