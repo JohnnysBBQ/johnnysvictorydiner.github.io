@@ -10,7 +10,6 @@ class EventProperties {
 }
 
 function populateEventDataFromFile(eventId) {
-	var eventProperties = getEventProperties(eventId);
 
 }
 
