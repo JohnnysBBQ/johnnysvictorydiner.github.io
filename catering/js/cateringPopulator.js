@@ -42,8 +42,22 @@ function getEventHtmlTemplate(templateUrl) {
     return htmlTemplate;
 }
 
+function generateHtmlFromEventProperties(eventProperties, htmlTemplate) {
+	return htmlTemplate.replace('{imageLink}', eventProperties.imageLink)
+		.replace('{videoLink}', eventProperties.videoLink)
+		.replace('{eventLink}', eventProperties.eventLink ? eventProperties.eventLink : '')
+		.replace('{date}', eventProperties.date ? eventProperties.date : '')
+		.replace('{title}', eventProperties.title ? eventProperties.title : '')
+		.replace('{description}', eventProperties.description ?  eventProperties.description : '');
+}
+
 function populateEventDataFromFile(eventId) {
-	console.log('called function populate');
+    var eventProperties = getEventProperties(eventId);
+    var templateUrl = eventProperties.imageLink ? "../catering/js/cateringImageTemplate.txt" : "../catering/js/cateringVideoTemplate.txt";
+    var htmlTemplate = getHtmlTemplate(templateUrl);
+    var generatedHtml = generateHtmlFromEventProperties(eventProperties, htmlTemplate);
+
+    $('#' + eventId).html(generatedHtml);
 }
 
 $(document).ready(function() {
