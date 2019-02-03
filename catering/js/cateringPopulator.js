@@ -35,7 +35,7 @@ function getEventProperties(eventId) {
         }
     });
 	
-    fileLines = fileData.split('\n');
+    return fileData.split('\n');
 }
 
 function getHtmlTemplate(templateUrl) {
