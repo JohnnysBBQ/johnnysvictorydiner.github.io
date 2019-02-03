@@ -1,16 +1,14 @@
-class EventProperties {
-	constructor(imageLink, videoLink, eventLink, date, title, description) {
-		this.imageLink = imageLink;
-		this.videoLink = videoLink;
-		this.eventLink = eventLink;
-		this.date = date;
-		this.title = title;
-		this.description = description;
-	}
+function EventProperties(imageLink, videoLink, eventLink, date, title, description) {
+	this.imageLink = imageLink;
+	this.videoLink = videoLink;
+	this.eventLink = eventLink;
+	this.date = date;
+	this.title = title;
+	this.description = description;
 }
 
 function populateEventDataFromFile(eventId) {
-	const eventProperties = getEventProperties(eventId);
+	var eventProperties = getEventProperties(eventId);
 	var templateUrl = eventProperties.imageLink ? "../catering/js/cateringImageTemplate.txt" : "../catering/js/cateringVideoTemplate.txt";
     var htmlTemplate = getHtmlTemplate(templateUrl);
     var generatedHtml = generateHtmlFromEventProperties(eventProperties, htmlTemplate);
@@ -33,8 +31,7 @@ function getEventProperties(eventId) {
     });
 	
 	fileLines = fileData.split('\n');
-	const eventProperties = new EventProperties(fileLines[0].split('~')[1], fileLines[1].split('~')[1], fileLines[2].split('~')[1], fileLines[3].split('~')[1], fileLines[4].split('~')[1], fileLines[5].split('~')[1]);
-	return eventProperties;
+	return new EventProperties(fileLines[0].split('~')[1], fileLines[1].split('~')[1], fileLines[2].split('~')[1], fileLines[3].split('~')[1], fileLines[4].split('~')[1], fileLines[5].split('~')[1]);
 }
 
 function getHtmlTemplate(templateUrl) {
