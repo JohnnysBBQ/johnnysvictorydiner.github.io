@@ -57,6 +57,11 @@ function populateEventDataFromFile(eventId) {
     var htmlTemplate = getEventHtmlTemplate(templateUrl);
     var generatedHtml = generateHtmlFromEventProperties(eventProperties, htmlTemplate);
 
+	console.log('-' + eventId);
+	console.log('--' + templateUrl);
+	console.log('---' + htmlTemplate);
+	console.log('----' + generatedHtml);
+	
     $('#' + eventId).html(generatedHtml);
 }
 
