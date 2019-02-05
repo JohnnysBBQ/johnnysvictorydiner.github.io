@@ -1,6 +1,6 @@
 <div class="card-img-top">
    <div class="embed-responsive embed-responsive-16by9">
-      <iframe class="embed-responsive-item" src="{videoLink}" allowFullScreen></iframe>
+      <iframe class="embed-responsive-item" src="{videoLink}" scrolling="no" allowFullScreen></iframe>
    </div>
 </div>
 <div class="card-body pb_p-40">
