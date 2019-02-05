@@ -1,5 +1,5 @@
 imageLink~
-videoLink~https://www.facebook.com/video/embed?video_id=481648762324179
+videoLink~https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ffacebook%2Fvideos%2F481648762324179%2F&show_text=false&appId
 eventLink~https://www.facebook.com/events/600095010346377/
 date~May 11th, 2019
 title~Own The Night Shoot
