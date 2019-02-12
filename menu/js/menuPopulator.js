@@ -49,6 +49,8 @@ function generateHtmlFromFileData(fileData, htmlTemplate) {
 $(document).ready(function() {
     populateMenuDataFromFile('breakfast');
     populateMenuDataFromFile('lunch');
+    populateMenuDataFromFile('entrees');
     populateMenuDataFromFile('bbq');
     populateMenuDataFromFile('beverages');
+    populateMenuDataFromFile('desserts');
 });
