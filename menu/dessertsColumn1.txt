@@ -1,7 +1,7 @@
 <h1>Homemade Desserts</h1>::
 Cori's Grapenut Pudding: 2.99:served in a mason jar with whipped cream
 Momma's Apple Pie:3.95:
-       ala mode: 4.95:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ala mode: 4.95:
 Strawberry Shortcake:4.75:pound cake topped with fresh strawberries and whipped cream
 Brownie Sundae:3.75: chocolate or vanilla ice cream
 Chocolate or Vanilla Ice Cream:2.50: Two scoops!
