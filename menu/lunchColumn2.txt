@@ -1,6 +1,7 @@
 <h1>Coney Island Style Hot Weineys</h1>::
 Hot Weineys :1.30/ea:
 Three "all the way" :3.50:
+Add fries or onion rings:1.75:
 <h1>Soups & Salads</h1>::
 Cup o' Soup:2.75:
 Bowl o' Soup:3.95:
