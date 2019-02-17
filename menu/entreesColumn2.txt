@@ -25,3 +25,6 @@ French Fries:2.99:
 Onion Rings:3.99:
 Cowboy Pit Beans:2.50:
 Cole Slaw:2.00:
+Mashed Potatoes:1.50:
+Veg of the Day:1.50:
+Gravy:.75:
