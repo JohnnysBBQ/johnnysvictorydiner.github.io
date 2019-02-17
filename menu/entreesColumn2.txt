@@ -4,3 +4,23 @@ Fish 'n Chips - large:11.95:
 Fish 'n Chips - small:8.95:
 Fresh grilled (or baked) cod:10.99: Served with red bliss mashed potatoes and veg of the day 
 Baked Stuffed Cod: 13.95:Fresh cod, packed with our house made stuffing, served with red bliss mashed potatoes and veg of the day
+Whole belly Clam Roll:10.99:served with fries and cole slaw
+Whole belly Clam Plate:13.99:served with fries and cole slaw
+Fried Scallop Plate:12.99:served with fries and cole slaw
+Shrimp Scampi or Alfredo:13.99
+Spaghetti & Clams:9.99:
+Fisherman's Platter:15.99:Cod, shrimp, and scallops lightly battered and deep fried to a golden crisp, served with fries and cole slaw
+Fish Sammie:8.99:Grilled or fried, on a bulky or in a tortilla wrap, served with lettuce. tomato, and cheese - with chips and a pickle
+<h1>Clam Cakes 'n Chowda</h1>:We have white, red and clear!:
+Cup:3.50:
+Bowl:4.50:
+Clamcakes - 3:3.50:
+Clamcakes - 6:6.00:
+Clamcakes: - 12:9.00
+3 Clamcakes and a cup o' chowda:6.50:
+3 Clamcakes and a bowl o' chowda:7.50:
+<h1>Sides</h1>::
+French Fries:2.99:
+Onion Rings:3.99:
+Cowboy Pit Beans:2.50:
+Cole Slaw:2.00:
