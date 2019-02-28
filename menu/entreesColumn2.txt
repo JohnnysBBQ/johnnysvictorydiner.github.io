@@ -11,8 +11,8 @@ Shrimp Scampi or Alfredo:13.99:
 Spaghetti & Clams:9.99:
 Fisherman's Platter:15.99:Cod, shrimp, and scallops lightly battered and deep fried to a golden crisp, served with fries and cole slaw
 Fish Sammie:8.99:Grilled or fried, on a bulky or in a tortilla wrap, served with lettuce. tomato, and cheese - with chips and a pickle
-<h1>Clam Cakes 'n Chowda</h1>:
-We have white, red and clear!:
+<h1>Clam Cakes 'n Chowda</h1>::
+We have white, red and clear!::
 Cup:3.50:
 Bowl:4.50:
 Clamcakes - 3:3.50:
