@@ -1,6 +1,6 @@
-imageLink~https://johnnysvictorydiner.com/assets/images/catering/BurrivilleArtsFestival.jpg
+imageLink~https://johnnysvictorydiner.com/assets/images/catering/SmithfieldCourtsGrandOpening.jpg
 videoLink~
-eventLink~https://www.facebook.com/events/565040577332774/
-date~Sept 14th, 2019 @10AM - Sept 15th, 2019 @5PM
-title~Burrillville Arts Festival
-description~The Burrillville Arts Festival is back for 2019! Come out for over 100 crafters and vendors! Kids activities including touch a truck, facepainting and more. Live music all weekend - Hosted by Burrillville Arts & Crafts Festival and Johnny's Victory Diner
+eventLink~https://www.facebook.com/events/808340739537742/
+date~June 15th, 2019 @2PM
+title~Smithfield Courts Grand Opening
+description~The Grand Opening Event will include Music, A Ribbon Cutting Ceremony, Autographs and Photo Ops with the PC Friars players and Coach, Ed Cooley, a Foul Shot and 3 Point Competition for Kids, Unified Games and Special Olympic Games, a Concession Stand, Food Trucks (Jonny's BBQ, Noble Knots, Gastros, etc.) and plenty more fun.
