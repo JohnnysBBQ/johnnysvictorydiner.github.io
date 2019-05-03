@@ -1,4 +1,4 @@
-imageLink~
+﻿imageLink~
 videoLink~https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ffacebook%2Fvideos%2F481648762324179%2F&show_text=false&appId
 eventLink~https://www.facebook.com/events/600095010346377/
 date~May 11th, 2019
@@ -11,3 +11,12 @@ description~For the 2nd year, Johnny’s has been invited to be the only food ve
 #Leave the videoLink blank in this case
 #Otherwise, if you want to have a video at the top of the event, right click the facebook video, click "show video url", copy the numbers after videp%2F(id here)%2F (looks like this videos%2F481648762324179%2F), and paste that where the numbers are in the example above (keep the %2F before and after the id
 #Set all other fields as shown above (date, title, description)
+
+
+#Blank event
+imageLink~https://johnnysvictorydiner.com/assets/images/restaurant/1900x1200/img_1.jpg
+videoLink~
+eventLink~
+date~TBD
+title~Coming soon...
+description~

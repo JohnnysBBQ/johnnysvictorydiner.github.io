@@ -1,6 +1,10 @@
-imageLink~https://johnnysvictorydiner.com/assets/images/restaurant/1900x1200/img_1.jpg
+imageLink~https://johnnysvictorydiner.com/assets/images/catering/SmithfieldCourtsGrandOpening.jpg
 videoLink~
-eventLink~
-date~TBD
-title~Coming soon...
-description~
+eventLink~https://www.facebook.com/events/808340739537742/
+date~June 15th, 2019 @2PM
+title~Smithfield Courts Grand Opening
+description~Saturday, June 15th at 2:00 PM the Smithfield Ralph Catuongo Basketball Courts, located at Anna McCabe Elementary School, will come back to life for the summer months and more.
+
+The Grand Opening Event will include Music, A Ribbon Cutting Ceremony, Autographs and Photo Ops with the PC Friars players and Coach, Ed Cooley, a Foul Shot and 3 Point Competition for Kids, Unified Games and Special Olympic Games, a Concession Stand, Food Trucks (Jonny's BBQ, Noble Knots, Gastros, etc.) and plenty more fun.
+
+The Grand Opening events will allow community members time to shoot around the courts between games and competitions. The day will end in the evening hours when the LIGHTS come on and the Futures Team plays the Varsity/Alumni Team!  Don't miss this action packed game and see the courts under the lights for the very first time since re-opening!
