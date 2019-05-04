@@ -1,6 +1,6 @@
-imageLink~
+﻿imageLink~
 videoLink~https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ffacebook%2Fvideos%2F481648762324179%2F&show_text=false&appId
 eventLink~https://www.facebook.com/events/600095010346377/
-date~May 11th, 2019
+date~May 11th, 2019 @11AM to 10PM
 title~Own The Night Shoot
-description~For the 2nd year, Johnny’s has been invited to be the only food vendor at the INFORCE - Own The Night Shoot taking place at Wallum Lake Rod and Gun Club located in Harrisville, Rhode Island The event will be held on May 11th rain or shine…event hours are from 11:00 AM to 10:00 PM …
+description~For the 2nd year, Johnny’s has been invited to be the only food vendor at the INFORCE - Own The Night Shoot taking place at Wallum Lake Rod and Gun Club located in Harrisville, Rhode Island The event will be held on May 11th rain or shine…
