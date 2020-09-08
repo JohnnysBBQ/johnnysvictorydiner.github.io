@@ -14,6 +14,17 @@
 	font-style: normal;
 }
 
+.top-banner {
+	position: absolute;
+	left: 0;
+	z-index: 100;
+	width: 100%;
+	font-family: "Montserrat", Arial, sans-serif;
+	color: rgba(255, 255, 255, 0.7);
+	text-align: center;
+	background-color: #222222;
+}
+
 #underConstruction {
     top: 200px;
 	text-align: center;
@@ -33,11 +44,17 @@
     }
 
 	.top-header {
-		margin-top: 5% !important;
+		margin-top: 10% !important;
 	}
 	
 	.header-title {
 		color: rgba(255, 255, 255, 0.8)
+	}
+	
+	.hours {
+	    font-size: 20px !important;
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
 	}
 }
 
@@ -1532,7 +1549,6 @@ a {
 
 .pb_navbar {
 	position: absolute;
-	top: 0;
 	left: 0;
 	z-index: 100;
 	width: 100%;
