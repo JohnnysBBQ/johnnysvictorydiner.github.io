@@ -72,6 +72,22 @@
 		font-size: 25px !important;
 		color: rgba(255, 255, 255, 0.8)
 	}
+
+	.top-banner {
+		position: absolute;
+		left: 0;
+		z-index: 100;
+		width: 100%;
+		font-size: 10px;
+		font-family: "Montserrat", Arial, sans-serif;
+		color: rgba(255, 255, 255, 0.7);
+		text-align: center;
+		background-color: #222222;
+	}
+	
+	.pb_navbar {
+		margin-top: 35px !important;
+	}
 }
 
 @media only screen and (min-device-height: 400px) and (max-device-height: 800px) {
@@ -91,6 +107,22 @@
 	.header-title {
 		font-size: 20px !important;
 		color: rgba(255, 255, 255, 0.8);
+	}
+
+	.top-banner {
+		position: absolute;
+		left: 0;
+		z-index: 100;
+		width: 100%;
+		font-size: 10px;
+		font-family: "Montserrat", Arial, sans-serif;
+		color: rgba(255, 255, 255, 0.7);
+		text-align: center;
+		background-color: #222222;
+	}
+	
+	.pb_navbar {
+		margin-top: 35px !important;
 	}
 }
 
