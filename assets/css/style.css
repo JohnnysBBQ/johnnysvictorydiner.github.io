@@ -89,10 +89,6 @@
 		text-align: center;
 		top: 100px;
 	}
-	
-	.pb_navbar {
-		margin-top: 0 !important;
-	}
 }
 
 @media only screen and (min-device-height: 400px) and (max-device-height: 800px) {
@@ -123,10 +119,6 @@
 		color: rgba(255, 255, 255, 0.9);
 		text-align: center;
 		top: 100px;
-	}
-	
-	.pb_navbar {
-		margin-top: 0 !important;
 	}
 }
 
