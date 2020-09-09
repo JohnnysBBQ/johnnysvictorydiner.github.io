@@ -1,6 +1,6 @@
-imageLink~https://johnnysvictorydiner.com/assets/images/catering/pigroast.jpg
+imageLink~https://johnnysvictorydiner.com/assets/images/catering/BurrivilleArtsFestival.jpg
 videoLink~
-eventLink~https://www.facebook.com/photo.php?fbid=10219230211575644&set=a.1444615604933&type=3&eid=ARBqqSfpgPbh3VM2d_9lliZ5tL5YokMEkMBgVQ1qcAHiiNI_2nZLmHBj7M54hEsHgZyblDzV6qeePNoZ
-date~September 28th, 2019
-title~5th Annual Shed Dinner Pig Roast
-description~It almost that time of year again!!! Let me know who needs tickets. Only selling 175 this year so first come first serve. All proceeds go to Operation Stand Down RI. $30pp, kids under 12 free. Amazing smoked meats and food from John Hanaway Johny’s BBQ! Party starts at 4:00. Vanishing VB Breed will be playing from 5:00 - 10:00. Of you have a camper or tent, feel free to come by Friday or Saturday morning to set up and camp out after the party at Shed Dinner.
+eventLink~https://www.facebook.com/events/565040577332774/
+date~Sept 14th, 2019 to Sept 15th, 2019 - @10AM to 5PM
+title~Burrillville Arts Festival
+description~The Burrillville Arts Festival is back for 2019! Come out for over 100 crafters and vendors! Kids activities including touch a truck, facepainting and more. Live music all weekend - Hosted by Burrillville Arts & Crafts Festival and Johnny's Victory Diner

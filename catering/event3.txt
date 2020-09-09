@@ -1,6 +1,0 @@
-imageLink~https://johnnysvictorydiner.com/assets/images/catering/BurrivilleArtsFestival.jpg
-videoLink~
-eventLink~https://www.facebook.com/events/565040577332774/
-date~Sept 14th, 2019 to Sept 15th, 2019 - @10AM to 5PM
-title~Burrillville Arts Festival
-description~The Burrillville Arts Festival is back for 2019! Come out for over 100 crafters and vendors! Kids activities including touch a truck, facepainting and more. Live music all weekend - Hosted by Burrillville Arts & Crafts Festival and Johnny's Victory Diner
