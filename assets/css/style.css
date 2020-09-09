@@ -25,6 +25,11 @@
 	background-color: #222222;
 }
 
+.banner-quote {
+	font-weight: bold;
+	font-style: italic;
+}
+
 #underConstruction {
     top: 200px;
 	text-align: center;
@@ -79,7 +84,6 @@
 		z-index: 100;
 		width: 100%;
 		font-size: 10px;
-		font-family: "Montserrat", Arial, sans-serif;
 		color: rgba(255, 255, 255, 0.7);
 		text-align: center;
 		background-color: #222222;
@@ -115,7 +119,6 @@
 		z-index: 100;
 		width: 100%;
 		font-size: 10px;
-		font-family: "Montserrat", Arial, sans-serif;
 		color: rgba(255, 255, 255, 0.7);
 		text-align: center;
 		background-color: #222222;
