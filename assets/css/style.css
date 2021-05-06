@@ -78,7 +78,7 @@
 		margin-bottom: 0 !important;
 	}
 	
-	.pb_cover_v1 {
+	#section-home {
 		height: 1250px;
 	}
 }
@@ -109,7 +109,7 @@
 		top: 120px;
 	}
 	
-	.pb_cover_v1 {
+	#section-home {
 		height: 1250px;
 	}
 }
@@ -144,7 +144,7 @@
 		top: 120px;
 	}
 	
-	.pb_cover_v1 {
+	#section-home {
 		height: 1250px;
 	}
 }
