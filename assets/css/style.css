@@ -141,7 +141,7 @@
 	}
 	
 	#section-home {
-		height: 2000px;
+		height: 2000px !important;
 	}
 }
 
