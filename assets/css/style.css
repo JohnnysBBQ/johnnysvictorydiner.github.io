@@ -54,9 +54,8 @@
 	width: 340px;
 }
 
-.description {
-	width: 150%;
-	margin-left: -25% !important;
+#section-home {
+	height: 1550px;
 }
 
 @media only screen and (min-device-height: 991px) {
@@ -77,10 +76,6 @@
 		margin-top: 0 !important;
 		margin-bottom: 0 !important;
 	}
-	
-	#section-home {
-		height: 1250px;
-	}
 }
 
 @media only screen and (min-device-height: 800px) and (max-device-height: 991px) {
@@ -89,12 +84,12 @@
     }
 
 	.top-header {
-		margin-top: 10% !important;
-		margin-bottom: 20% !important;
+		margin-top: 5% !important;
+		margin-bottom: 15% !important;
 	}
 	
 	.header-title {
-		font-size: 30px !important;
+		font-size: 25px !important;
 		color: rgba(255, 255, 255, 0.8)
 	}
 
@@ -106,17 +101,13 @@
 		font-size: 10px;
 		color: rgba(255, 255, 255, 0.9);
 		text-align: center;
-		top: 120px;
-	}
-	
-	#section-home {
-		height: 1250px;
+		top: 200px;
 	}
 }
 
 @media only screen and (min-device-height: 400px) and (max-device-height: 800px) {
 	.top-header>.heading {
-		font-size: 30px !important;
+		font-size: 40px !important;
 	}
 	
 	.description {
@@ -124,12 +115,12 @@
     }
 
 	.top-header {
-		margin-top: 15% !important;
-		margin-bottom: 30% !important;
+		margin-top: 10% !important;
+		margin-bottom: 25% !important;
 	}
 	
 	.header-title {
-		font-size: 25px !important;
+		font-size: 20px !important;
 		color: rgba(255, 255, 255, 0.8);
 	}
 
@@ -141,11 +132,7 @@
 		font-size: 10px;
 		color: rgba(255, 255, 255, 0.9);
 		text-align: center;
-		top: 120px;
-	}
-	
-	#section-home {
-		height: 1250px;
+		top: 200px;
 	}
 }
 
