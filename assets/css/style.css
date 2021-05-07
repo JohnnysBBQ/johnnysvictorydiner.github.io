@@ -79,6 +79,10 @@
 }
 
 @media only screen and (min-device-height: 800px) and (max-device-height: 991px) {
+	.top-header>.heading {
+		font-size: 35px !important;
+	}
+	
 	.description {
 	    font-size: 12px !important;
     }
