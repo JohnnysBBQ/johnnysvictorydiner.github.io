@@ -25,14 +25,13 @@
 }
 
 .top-banner {
-	position: absolute;
-	left: 25%;
+	position: relative;
+	left: -25%;
 	z-index: 100;
-	width: 50%;
+	width: 150%;
 	font-family: "Montserrat", Arial, sans-serif;
 	color: rgba(255, 255, 255, 0.9);
 	text-align: center;
-	top: 250px;
 	font-size: 20px;
 }
 
@@ -97,17 +96,6 @@
 		font-size: 25px !important;
 		color: rgba(255, 255, 255, 0.8);
 	}
-
-	.top-banner {
-		position: absolute;
-		left: 0;
-		z-index: 100;
-		width: 100%;
-		font-size: 10px;
-		color: rgba(255, 255, 255, 0.9);
-		text-align: center;
-		top: 200px;
-	}
 }
 
 @media only screen and (max-device-height: 800px) {
@@ -128,20 +116,16 @@
 		font-size: 20px !important;
 		color: rgba(255, 255, 255, 0.8);
 	}
-
-	.top-banner {
-		position: absolute;
-		left: 0;
-		z-index: 100;
-		width: 100%;
-		font-size: 10px;
-		color: rgba(255, 255, 255, 0.9);
-		text-align: center;
-		top: 175px;
-	}
 	
 	#section-home {
 		height: 2000px !important;
+	}
+}
+
+@media (max-width: 767px) {
+	.top-banner {
+		left: 0;
+		width: 100%;
 	}
 }
 
