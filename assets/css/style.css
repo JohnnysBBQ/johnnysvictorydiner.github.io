@@ -124,6 +124,29 @@
 	}
 }
 
+@media only screen and (max-device-width: 900px) and (max-device-height: 400px) {
+	.top-header>.heading {
+		font-size: 35px !important;
+	}
+	
+	.description {
+	    font-size: 12px !important;
+    }
+
+	.top-header {
+		margin-top: 10% !important;
+	}
+	
+	.header-title {
+		font-size: 20px !important;
+		color: rgba(255, 255, 255, 0.8);
+	}
+	
+	#section-home {
+		height: 2000px !important;
+	}
+}
+
 @media (max-width: 767px) {
 	.top-banner {
 		left: 0;
