@@ -124,7 +124,7 @@
 	}
 }
 
-@media only screen and (max-device-width: 900px) and (max-device-height: 400px) {
+@media only screen and (orientation: landscape) {
 	.top-header>.heading {
 		font-size: 35px !important;
 	}
