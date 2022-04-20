@@ -1,6 +1,6 @@
 imageLink~
 videoLink~
 eventLink~https://www.sevencedarsfarm.us/farmers-market/
-date~May 14th from 10AM - 4PM
+date~May 14th, 2022 from 10AM - 4PM
 title~Seven Cedars Farm
 description~We'll be serving up some amazing breakfast and BBQ!
