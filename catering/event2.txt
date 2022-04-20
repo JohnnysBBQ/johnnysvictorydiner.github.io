@@ -1,0 +1,6 @@
+imageLink~
+videoLink~
+eventLink~https://www.sevencedarsfarm.us/farmers-market/
+date~Sept 14th, 2019 to Sept 15th, 2019 - @10AM to 5PM
+title~Seven Cedars Farm
+description~We'll be serving up some amazing breakfast and BBQ!
