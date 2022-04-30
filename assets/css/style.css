@@ -98,6 +98,12 @@
 		font-size: 25px !important;
 		color: rgba(255, 255, 255, 0.8);
 	}
+
+	.hours {
+	    font-size: 12px !important;
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
+	}
 }
 
 @media only screen and (max-device-height: 800px) {
@@ -120,6 +126,12 @@
 	
 	#section-home {
 		height: 2000px !important;
+	}
+
+	.hours {
+	    font-size: 12px !important;
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
 	}
 }
 
