@@ -104,6 +104,10 @@
 		margin-top: 0 !important;
 		margin-bottom: 0 !important;
 	}
+	
+	#section-home {
+		height: 2500px !important;
+	}
 }
 
 @media only screen and (max-device-height: 800px) {
@@ -125,7 +129,7 @@
 	}
 	
 	#section-home {
-		height: 2000px !important;
+		height: 2500px !important;
 	}
 
 	.hours {
@@ -154,7 +158,7 @@
 	}
 	
 	#section-home {
-		height: 2000px !important;
+		height: 2500px !important;
 	}
 }
 
