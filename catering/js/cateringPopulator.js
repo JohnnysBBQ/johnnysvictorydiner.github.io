@@ -62,6 +62,6 @@ function populateEventDataFromFile(eventId) {
 
 $(document).ready(function() {
     populateEventDataFromFile('event1');
-    populateEventDataFromFile('event2');
-    populateEventDataFromFile('event3');
+    //populateEventDataFromFile('event2');
+    //populateEventDataFromFile('event3');
 });
