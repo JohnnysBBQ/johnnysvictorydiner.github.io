@@ -1,6 +1,6 @@
-imageLink~https://johnnysvictorydiner.com/assets/images/catering/bourbonBBQ.jpg
+imageLink~https://johnnysvictorydiner.com/assets/images/catering/philsPropaneCarShow.jpg
 videoLink~
-eventLink~
-date~April 30th, 2022 @ 5PM
-title~Bourbon/Cigars/BBQ
-description~*Private Event on the deck - Sponsored by "Bourbon Enthusiasts", "Lou's Cigar", "Zelus Brewery". "Fit to be Red" will be playing tunes! Email johnnysbbqri@gmail.com if interested - we may have spots available! $55 ticket
+eventLink~http://mccne.com/event-4721422
+date~August 7th, 2022 from 9AM - 12PM
+title~MCCNE All Wheels Car Show
+description~We'll be serving up some amazing BBQ at the MCCNE All Wheels Car Show hosted by Phil's Propane
